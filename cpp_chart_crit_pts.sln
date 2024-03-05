@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34320.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_chart_crit_pts", "cpp_chart_crit_pts\cpp_chart_crit_pts.vcxproj", "{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Debug|x64.ActiveCfg = Debug|x64
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Debug|x64.Build.0 = Debug|x64
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Debug|x86.Build.0 = Debug|Win32
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Release|x64.ActiveCfg = Release|x64
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Release|x64.Build.0 = Release|x64
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Release|x86.ActiveCfg = Release|Win32
+		{CB6ACDAA-CAED-4DEE-B885-80DB71EC056D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7FD3050-F518-436E-9AB7-3FD11009C2A1}
+	EndGlobalSection
+EndGlobal
